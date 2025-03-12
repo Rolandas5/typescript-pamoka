@@ -1,12 +1,12 @@
-"use strict";
+'use strict';
 // Uzduoys:
-// Parasykite TypeScript koda, kuris deklaruoja kintamaji name ir priskiria jam string reiksme.
+// 1) Parasykite TypeScript koda, kuris deklaruoja kintamaji name ir priskiria jam string reiksme.
 // Taip pat deklaruokite kintamaji amzius ir priskirkite jam skaiciu. Atspausdinkite vardo ir amziaus reiksmes.
 let vardas = 'Jonas';
 let amzius = 30;
 console.log('vardas:', vardas);
 console.log('amzius:', amzius);
-// parasykite TypeScript koda, kuris deklaruoja konkretaus duomenu masyva. Parasykite iprastas masyvo operacijas,
+// 2) Parasykite TypeScript koda, kuris deklaruoja konkretaus duomenu masyva. Parasykite iprastas masyvo operacijas,
 // tokias kaip elementu pridejimas ar pasalinimas is masyvo, taip pat masyvo elementu pateikimas konsoleje.
 let skaiciai = [1, 2, 3, 4, 5];
 skaiciai.push(6);
